@@ -1,0 +1,16 @@
+[
+  {
+    "model": "annot.class",
+    "pk": 1,
+    "fields": {
+      "name": "Beginnings"
+    }
+  },
+  {
+    "model": "annot.class",
+    "pk": 2,
+    "fields": {
+      "name": "Aspirations"
+    }
+  }
+]

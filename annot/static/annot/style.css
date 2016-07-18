@@ -1,0 +1,18 @@
+
+
+
+td {
+    padding: 15px; 
+}
+
+#story {
+	resize: none;
+    width: 100%;
+    height: 400px;
+}
+
+#selectedText{
+	resize: none;
+    width: 50%;
+    height: 100px;
+}

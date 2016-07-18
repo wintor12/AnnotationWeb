@@ -1,0 +1,18 @@
+[
+  {
+    "model": "annot.subclass",
+    "pk": 1,
+    "fields": {
+      "name": "Beginning situation",
+      "topclass": "1"
+    }
+  },
+  {
+    "model": "annot.subclass",
+    "pk": 2,
+    "fields": {
+      "name": "Aspirations",
+      "topclass": "2"
+    }
+  }
+]
