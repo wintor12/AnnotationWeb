@@ -21,6 +21,7 @@ If you want to modify label, subclass, class. For example, change 'Ending Summar
 
 2  in the code: annotation/annot/templates/annot/index.html, at the very end, change: "li class = 'label' Ending Summary li" to "li class = 'label' Summary li"
 
+The labels, subclasses, classes must be same in database and in the index.html, otherwise may cause error
 
 If you want to add stories, you can add directly from the admin database. An easier way is : 
 
