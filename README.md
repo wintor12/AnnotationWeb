@@ -27,4 +27,4 @@ If you want to add stories, you can add directly from the admin database. An eas
 
 python manage.py shell
 
-Then write python code to save stories to database, you can reference here: https://docs.djangoproject.com/en/1.10/intro/tutorial02/
+Then write python code to save stories to database, you can find examples here: https://docs.djangoproject.com/en/1.10/intro/tutorial02/
